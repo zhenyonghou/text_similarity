@@ -1,6 +1,6 @@
 # 计算文本相似度的工具，可用户找出黑产内容
 
-textSimilarity = TextSimilarity()
+    textSimilarity = TextSimilarity()
 
 
     t0 = time.time()
@@ -20,12 +20,9 @@ textSimilarity = TextSimilarity()
     print('耗时:%fs' % e)
     
 # 执行结果
-    
-[@jayodeMacBook-Pro:text_similarity]$ python main.py 
-Building prefix dict from the default dictionary ...
-Loading model from cache /var/folders/sh/dp_k1my94q9332j9stdbxt4c0000gn/T/jieba.cache
-Loading model cost 0.435 seconds.
-Prefix dict has been built successfully.
-相似度：0.912293
-相似度：0.939735
-耗时:0.003818s
+
+    相似度：0.912293
+    相似度：0.939735
+    耗时:0.003818s
+
+  
