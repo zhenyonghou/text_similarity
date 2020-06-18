@@ -1,4 +1,4 @@
-# 计算文本相似度的工具，可用户找出黑产内容
+# 计算文本相似度的工具，可用于找出黑产内容
 
     textSimilarity = TextSimilarity()
 
